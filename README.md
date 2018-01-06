@@ -20,4 +20,6 @@ scrapy crawl counselor
 
 ## 数据分析
 
-用 Pandas 对爬取的咨询师资料做了简单的数据处理和分析。
+用 Pandas 对爬取的咨询师资料做了简单的数据处理和分析。详情请查看 [jdxl\_experts\_analysis.ipynb](https://github.com/kidult00/scrapy-jdxl/blob/master/jdxl/ouput/jdxl_experts_analysis.ipynb)。
+
+![wordcloud.png](https://github.com/kidult00/scrapy-jdxl/blob/master/jdxl/ouput/wordcloud.png)
