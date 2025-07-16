@@ -1,2 +1,2 @@
 Faker==0.8.7
-Scrapy==2.11.1
+Scrapy==2.11.2
